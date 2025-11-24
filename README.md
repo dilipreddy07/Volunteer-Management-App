@@ -1,4 +1,2 @@
 # Volunteer-Management-App
-Volunteer-Management-Application
-
 The platform aims to close the communication gap between professors and students by providing a unified system for managing academic tasks. It streamlines the assignment process, tracking, and evaluation, while supporting collaboration through integrated chat features. The system enhances academic integrity by incorporating plagiarism checks and promotes continuous progress monitoring with timely feedback. This facilitates a more organized, transparent, and interactive educational environment where both students and professors can efficiently manage responsibilities and improve academic outcomes. Overall, it provides an effective solution for managing academic tasks and collaboration in educational settings.
